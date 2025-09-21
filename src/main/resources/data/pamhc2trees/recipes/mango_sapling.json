@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "forge:crops/mango"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:mango_sapling"
+	}
+
+}

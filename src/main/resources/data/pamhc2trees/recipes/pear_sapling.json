@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "forge:crops/pear"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:pear_sapling"
+	}
+
+}

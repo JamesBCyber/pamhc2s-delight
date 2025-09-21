@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "forge:crops/hazelnut"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:hazelnut_sapling"
+	}
+
+}

@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "forge:crops/fig"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:fig_sapling"
+	}
+
+}

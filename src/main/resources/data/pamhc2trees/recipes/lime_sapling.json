@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "forge:crops/lime"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:lime_sapling"
+	}
+
+}

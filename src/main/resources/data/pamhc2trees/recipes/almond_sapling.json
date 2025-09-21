@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "forge:crops/almond"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:almond_sapling"
+	}
+
+}

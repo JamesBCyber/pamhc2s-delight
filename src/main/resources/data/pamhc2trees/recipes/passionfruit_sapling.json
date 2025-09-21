@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "forge:crops/passionfruit"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:passionfruit_sapling"
+	}
+
+}

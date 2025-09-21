@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "forge:crops/cherry"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:cherry_sapling"
+	}
+
+}

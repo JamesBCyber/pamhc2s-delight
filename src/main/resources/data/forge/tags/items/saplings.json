@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "alexis_food:apple_sapling",
+    "alexis_food:lemon_sapling",
+    "alexis_food:orange_sapling",
+    "alexis_food:pear_sapling",
+    "alexis_food:cherry_sapling"
+  ]
+}

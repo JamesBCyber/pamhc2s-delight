@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "forge:crops/vanillabean"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:vanillabean_sapling"
+	}
+
+}

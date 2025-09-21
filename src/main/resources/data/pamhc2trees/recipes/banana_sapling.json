@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "forge:crops/banana"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:banana_sapling"
+	}
+
+}

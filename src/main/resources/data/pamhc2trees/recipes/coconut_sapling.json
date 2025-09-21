@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "forge:crops/coconut"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:coconut_sapling"
+	}
+
+}

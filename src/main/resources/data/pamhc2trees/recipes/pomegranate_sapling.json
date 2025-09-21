@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "forge:crops/pomegranate"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:pomegranate_sapling"
+	}
+
+}

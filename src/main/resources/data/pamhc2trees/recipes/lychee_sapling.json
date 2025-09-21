@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "forge:crops/lychee"
+	},
+	{
+		"tag": "minecraft:saplings"
+	}
+],
+
+	"result": {
+		"item": "pamhc2trees:lychee_sapling"
+	}
+
+}
